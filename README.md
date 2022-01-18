@@ -6,3 +6,7 @@ sudo-doas has the following dependencies: `sudo`, `doas`, and `bash`. It also de
 If you are using a Linux or Unix-based system that does not have systemd, you can use another method to set a global alias. Anyone who cares enough to run one of these systems likely has enough technical knowledge to figure it out.
 
 To install, place the `sudo-doas` script in `/usr/bin` and place the `sudo-doas.sh` script in `/etc/profile.d`.
+
+
+
+Note that using this script is considered a very bad idea™.
