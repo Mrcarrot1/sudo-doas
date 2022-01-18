@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cmds=( "/usr/bin/sudo" "/usr/bin/doas" )
+${cmds[RANDOM % ${#cmds[@]}]} "$@"
