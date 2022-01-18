@@ -9,4 +9,4 @@ To install, place the `sudo-doas` script in `/usr/bin` and place the `sudo-doas.
 
 
 
-Note that using this script is considered a very bad idea™.
+Note that using this script is considered a Very Bad Idea™.
